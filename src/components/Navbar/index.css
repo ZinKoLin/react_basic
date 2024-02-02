@@ -1,0 +1,16 @@
+nav{
+    background-color: gray;
+    padding: 10px;
+    color:white;
+}
+
+
+
+.container ul{
+    display: flex;
+}
+
+.container li{
+    list-style-type: none;
+    margin: 0 20px;;
+}
