@@ -10,8 +10,8 @@ export default function index({setShowModal}) {
     <ul>
       <li>Home</li>
       <li>Posts</li>
-      <li >Sign In</li>
-      <li><button onClick={()=>setShowModal(true)}>Show</button></li>
+      <li >Categories</li>
+      <li><button onClick={()=>setShowModal(true)}>Sign In</button></li>
     </ul>
     </div>
   </nav>
